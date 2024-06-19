@@ -53,5 +53,7 @@ StarkPool is a quadratic funding (QF) project on StarkNet, designed to support t
 
 
 ## ***Controlled Transfers***
-Whitelisting Addresses: Only addresses that are whitelisted can receive transfers of bearing tokens.
+- **Whitelisting Addresses:** Only addresses that are whitelisted can receive transfers of bearing tokens.
 Setting Withdrawal Limits: Owners set daily withdrawal limits for whitelisted addresses to control the redemption process.
+
+
